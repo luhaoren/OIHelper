@@ -4,11 +4,72 @@
 **下载地址**：[阿里云盘](https://www.aliyundrive.com/s/vtLr6pfqMKo)
 
 ---
+## OI小助手V1.0
+
+**下载地址**：[link](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OI%E5%B0%8F%E5%8A%A9%E6%89%8BV1.0.exe)
+
+**版本**：V1.0
+
+**功能**：
+1. **设置**
+
+	（**1**）设置用户名，登录和注册。
+    
+    （**2**）设置窗口：可以设置颜色和风格。
+    
+    （**3**）应用邀请码，获得更多权限。
+
+
+2. **退出**：退出程序主循环。
+3. **关于**：有关于此程序的一切。
+
+## OI小助手V1.1
+
+**下载地址**：[link](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OI%E5%B0%8F%E5%8A%A9%E6%89%8BV1.1.exe)
+
+**版本**：V1.1
+
+## OI小助手V2.0
+
+### **安装包**：[link](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OI%E5%B0%8F%E5%8A%A9%E6%89%8BV2.0.zip)
+
+**版本**：V2.0
+
+**功能**：
+1. **设置**
+
+	（**1**）设置用户名，登录和注册。可以查看背包。
+    
+    （**2**）设置窗口：可以设置颜色和风格。
+    
+    （**3**）应用邀请码，获得更多权限。
+
+
+2. **退出**：退出程序主循环。
+3. **应用**
+
+	（1）**学习应用**：包括OJ链接和文化知识测试，从同一目录下的timu.txt和answer.txt下调取题目答案。
+    
+    （2）**娱乐应用**：包括商城和抽奖，商城售卖抽奖机会以及vip
+4. **关于**：有关于此程序的一切。
+5. **存档**：将用户的基本信息保存在同一目录下的use.txt，第二次使用不需注册
+
+**RP系统**:在程序中抽奖，玩游戏和问答中，可以获得rp，rp可以在商城购买权限和商品。
+
+**至尊超级VIP**：可以获得OI小助手中更高一等的权限。
+
+ $此程序的后续版本将在未来陆续发布。$ 
+ 
+###  V2.1新增功能：
+ 1. 修复了一些bug
+ 2. 增加了答题机会系统，避免了利用答题刷rp的可能。
+ 3. 增加了权限系统，增加了**vip**、**超级至尊vip**、**管理员**三种权限的管理
+###  V2.1下载地址：[link](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OI%E5%B0%8F%E5%8A%A9%E6%89%8BV2.1.zip)
 
 ## OI小助手V2.5
 本软件由$洛谷用户@luhaoren$制作。
 
-### **安装包**：[link](https://www.luogu.com.cn/api/team/downloadFile/46f8d962)(需要加入[团队](https://www.luogu.com.cn/team/50054))
+### **安装包**：[link](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OIHelperV2.5.exe)
 
 **版本**：V2.5
 
@@ -40,14 +101,14 @@
 2. 改进了读档功能，把个人信息经常丢失的bug解决。
 3. 改进了“关于”页面的美观问题和链接的指向。
 
-**V2.5.1下载链接：[link](https://www.luogu.com.cn/api/team/downloadFile/tgk2xo9s)**（下载完直接复制到$V2.5$的目录里就可以了）
+**V2.5.1下载链接：[link](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OI%E5%B0%8F%E5%8A%A9%E6%89%8BV2.5.1.exe)**（下载完直接复制到$V2.5$的目录里就可以了）
 
 ------------
 ## V2.6新增功能
 1. 改进了RP逆增长的bug。
 2. 因为源代码太长，编译时间太长，所以作者把OI笔记和计算器两个模块独立了，形成了$notepad.exe$和$计算器.exe$两个程序。外观等都和主程序相同。
 
-**V2.6下载链接：[link](https://www.luogu.com.cn/api/team/downloadFile/cwkg34qy)**
+**V2.6下载链接：[link](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OIHelperV2.6.zip)**
 
 
 ------------
@@ -56,7 +117,7 @@
 2. 改进了一些bug。
 3. 美化了界面。
 
-**V2.6.1下载链接：[link](https://www.luogu.com.cn/api/team/downloadFile/cwkg34qy)**
+**V2.6.1下载链接：[link](https://github.com/luhaoren/OIHelper/blob/main/download/OIHelperV2.6.1.exe)**
 
 ------------
 ## V2.8新增功能
@@ -72,34 +133,36 @@
     
     （**4**）美化了页面。
 
-**V2.8下载链接：[link](https://www.luogu.com.cn/api/team/downloadFile/txixta8w)**
+**V2.8下载链接：[link](https://github.com/luhaoren/OIHelper/blob/main/download/OIHelperV2.8.exe)**
 
 
 ------------
 ## V2.9新增功能
 1. **增加了反脏话系统**：检测到“$sb$”，“$tmd$”等话语时，会自动弹出一些……提醒。
-2. **增加了OI安全**，在$应用$中，具体……
+2. **增加了OI安全**，在$应用$中
 3. **具体更新内容**：
 
 	（**1**）作者把应用中心的文件流算法优化了，但是……**提醒大家**：加入你安装了360安全，程序运行时可能会被当成木马。
     
     （**2**）美化了页面。
 
-**V2.9下载链接：[link](https://www.luogu.com.cn/api/team/downloadFile/evk6lee5)**
+**V2.9下载链接：[link](https://github.com/luhaoren/OIHelper/blob/main/download/OIHelperV2.9.exe)**
 
 
 ------------
 ## V2.9.1新增功能
 1. 在设置中增加了“**高级设置**”功能，只要输入cmd指令就可以进行设置。
 
-2. 把OI笔记中读取错误的bug优化（以前输入字符就会乱码，现在输入字符就会退出）。
+2. 把OI笔记中读取错误的bug优化（以前输入字符就会乱码，现在输入字符就会退出）。`
+
+[下载链接](https://github.com/luhaoren/OIHelper/blob/main/download/OIHelperV2.9.1.exe)
 
 
 ------------
 ## V3.0新增功能
 使用```dev-c++```的项目功能重写了OIHelper，改变了以往混乱的码风，把应用市场变成了多文件开发模式，变的更加简洁，方便，设计了新的图标。
 
-**下载地址**：[阿里云盘](https://www.aliyundrive.com/s/vtLr6pfqMKo)
+**下载地址**：[下载地址](https://github.com/luhaoren/OIHelper/blob/main/download/OIHelperV3.0.exe)
 
 ---
 
