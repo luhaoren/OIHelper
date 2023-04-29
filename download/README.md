@@ -133,7 +133,7 @@
     
     （**4**）美化了页面。
 
-**V2.8下载链接：[link](https://github.com/luhaoren/OIHelper/blob/main/download/OIHelperV2.8.exe)**
+**V2.8下载链接：[link](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OIHelperV2.8.exe)**
 
 
 ------------
@@ -146,7 +146,7 @@
     
     （**2**）美化了页面。
 
-**V2.9下载链接：[link](https://github.com/luhaoren/OIHelper/blob/main/download/OIHelperV2.9.exe)**
+**V2.9下载链接：[link](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OIHelperV2.9.exe)**
 
 
 ------------
@@ -155,14 +155,14 @@
 
 2. 把OI笔记中读取错误的bug优化（以前输入字符就会乱码，现在输入字符就会退出）。`
 
-[下载链接](https://github.com/luhaoren/OIHelper/blob/main/download/OIHelperV2.9.1.exe)
+[下载链接](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OIHelperV2.9.1.exe)
 
 
 ------------
 ## V3.0新增功能
 使用```dev-c++```的项目功能重写了OIHelper，改变了以往混乱的码风，把应用市场变成了多文件开发模式，变的更加简洁，方便，设计了新的图标。
 
-**下载地址**：[下载地址](https://github.com/luhaoren/OIHelper/blob/main/download/OIHelperV3.0.exe)
+**[下载地址](https://raw.iqiq.io/luhaoren/OIHelper/main/download/OIHelperV3.0.exe)**
 
 ---
 
